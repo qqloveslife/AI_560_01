@@ -1,0 +1,403 @@
+{
+  "plan_name": "Tandem Test Execution Plan",
+  "created_date": "2025-11-12 08:14:54.954491",
+  "total_scenarios": 15,
+  "estimated_time_minutes": 0,
+  "personas_tested": 1,
+  "scenarios_by_persona": {
+    "Unknown": [
+      {
+        "scenario_id": "persona_001_scenario_1",
+        "persona_id": "persona_001",
+        "task_description": "Navigate to main feature and complete tasks quickly",
+        "expected_behavior": "Creative Professional with Expert tech skills successfully completes primary workflow",
+        "success_criteria": [
+          "Task completed within reasonable time",
+          "No critical errors encountered"
+        ],
+        "focus_area": "Primary workflow completion",
+        "user_context": {
+          "user_type": "Creative Professional",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Complete tasks quickly",
+          "pain_point": "Lack of accessibility features"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_001_scenario_2",
+        "persona_id": "persona_001",
+        "task_description": "Recover from error state related to: Lack of accessibility features",
+        "expected_behavior": "User encounters and resolves Lack of accessibility features without abandoning task",
+        "success_criteria": [
+          "Error message is clear",
+          "Recovery path is obvious"
+        ],
+        "focus_area": "Error handling",
+        "user_context": {
+          "user_type": "Creative Professional",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Complete tasks quickly",
+          "pain_point": "Lack of accessibility features"
+        },
+        "priority": "medium",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_001_scenario_3",
+        "persona_id": "persona_001",
+        "task_description": "Find and use help/information resources",
+        "expected_behavior": "Expert user can locate assistance when needed",
+        "success_criteria": [
+          "Help is discoverable",
+          "Information is understandable"
+        ],
+        "focus_area": "Discoverability",
+        "user_context": {
+          "user_type": "Creative Professional",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Complete tasks quickly",
+          "pain_point": "Lack of accessibility features"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_001_scenario_4",
+        "persona_id": "persona_001",
+        "task_description": "Complete secondary task: Complete tasks quickly",
+        "expected_behavior": "User navigates to and completes secondary feature",
+        "success_criteria": [
+          "Navigation is intuitive",
+          "Task flow is logical"
+        ],
+        "focus_area": "Secondary workflows",
+        "user_context": {
+          "user_type": "Creative Professional",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Complete tasks quickly",
+          "pain_point": "Lack of accessibility features"
+        },
+        "priority": "medium",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_001_scenario_5",
+        "persona_id": "persona_001",
+        "task_description": "Use interface on first visit (no prior knowledge)",
+        "expected_behavior": "Creative Professional understands interface without training",
+        "success_criteria": [
+          "Purpose is clear",
+          "Next steps are obvious"
+        ],
+        "focus_area": "Learnability",
+        "user_context": {
+          "user_type": "Creative Professional",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Complete tasks quickly",
+          "pain_point": "Lack of accessibility features"
+        },
+        "priority": "medium",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_002_scenario_1",
+        "persona_id": "persona_002",
+        "task_description": "Navigate to main feature and customize experience",
+        "expected_behavior": "Teacher with Expert tech skills successfully completes primary workflow",
+        "success_criteria": [
+          "Task completed within reasonable time",
+          "No critical errors encountered"
+        ],
+        "focus_area": "Primary workflow completion",
+        "user_context": {
+          "user_type": "Teacher",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Customize experience",
+          "pain_point": "Privacy concerns"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_002_scenario_2",
+        "persona_id": "persona_002",
+        "task_description": "Recover from error state related to: Privacy concerns",
+        "expected_behavior": "User encounters and resolves Privacy concerns without abandoning task",
+        "success_criteria": [
+          "Error message is clear",
+          "Recovery path is obvious"
+        ],
+        "focus_area": "Error handling",
+        "user_context": {
+          "user_type": "Teacher",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Customize experience",
+          "pain_point": "Privacy concerns"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_002_scenario_3",
+        "persona_id": "persona_002",
+        "task_description": "Find and use help/information resources",
+        "expected_behavior": "Expert user can locate assistance when needed",
+        "success_criteria": [
+          "Help is discoverable",
+          "Information is understandable"
+        ],
+        "focus_area": "Discoverability",
+        "user_context": {
+          "user_type": "Teacher",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Customize experience",
+          "pain_point": "Privacy concerns"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_002_scenario_4",
+        "persona_id": "persona_002",
+        "task_description": "Complete secondary task: Customize experience",
+        "expected_behavior": "User navigates to and completes secondary feature",
+        "success_criteria": [
+          "Navigation is intuitive",
+          "Task flow is logical"
+        ],
+        "focus_area": "Secondary workflows",
+        "user_context": {
+          "user_type": "Teacher",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Customize experience",
+          "pain_point": "Privacy concerns"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_002_scenario_5",
+        "persona_id": "persona_002",
+        "task_description": "Use interface on first visit (no prior knowledge)",
+        "expected_behavior": "Teacher understands interface without training",
+        "success_criteria": [
+          "Purpose is clear",
+          "Next steps are obvious"
+        ],
+        "focus_area": "Learnability",
+        "user_context": {
+          "user_type": "Teacher",
+          "tech_proficiency": "Expert",
+          "primary_goal": "Customize experience",
+          "pain_point": "Privacy concerns"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_003_scenario_1",
+        "persona_id": "persona_003",
+        "task_description": "Navigate to main feature and make informed decisions",
+        "expected_behavior": "Researcher with High tech skills successfully completes primary workflow",
+        "success_criteria": [
+          "Task completed within reasonable time",
+          "No critical errors encountered"
+        ],
+        "focus_area": "Primary workflow completion",
+        "user_context": {
+          "user_type": "Researcher",
+          "tech_proficiency": "High",
+          "primary_goal": "Make informed decisions",
+          "pain_point": "Limited customization options"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_003_scenario_2",
+        "persona_id": "persona_003",
+        "task_description": "Recover from error state related to: Limited customization options",
+        "expected_behavior": "User encounters and resolves Limited customization options without abandoning task",
+        "success_criteria": [
+          "Error message is clear",
+          "Recovery path is obvious"
+        ],
+        "focus_area": "Error handling",
+        "user_context": {
+          "user_type": "Researcher",
+          "tech_proficiency": "High",
+          "primary_goal": "Make informed decisions",
+          "pain_point": "Limited customization options"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_003_scenario_3",
+        "persona_id": "persona_003",
+        "task_description": "Find and use help/information resources",
+        "expected_behavior": "High user can locate assistance when needed",
+        "success_criteria": [
+          "Help is discoverable",
+          "Information is understandable"
+        ],
+        "focus_area": "Discoverability",
+        "user_context": {
+          "user_type": "Researcher",
+          "tech_proficiency": "High",
+          "primary_goal": "Make informed decisions",
+          "pain_point": "Limited customization options"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_003_scenario_4",
+        "persona_id": "persona_003",
+        "task_description": "Complete secondary task: Make informed decisions",
+        "expected_behavior": "User navigates to and completes secondary feature",
+        "success_criteria": [
+          "Navigation is intuitive",
+          "Task flow is logical"
+        ],
+        "focus_area": "Secondary workflows",
+        "user_context": {
+          "user_type": "Researcher",
+          "tech_proficiency": "High",
+          "primary_goal": "Make informed decisions",
+          "pain_point": "Limited customization options"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      },
+      {
+        "scenario_id": "persona_003_scenario_5",
+        "persona_id": "persona_003",
+        "task_description": "Use interface on first visit (no prior knowledge)",
+        "expected_behavior": "Researcher understands interface without training",
+        "success_criteria": [
+          "Purpose is clear",
+          "Next steps are obvious"
+        ],
+        "focus_area": "Learnability",
+        "user_context": {
+          "user_type": "Researcher",
+          "tech_proficiency": "High",
+          "primary_goal": "Make informed decisions",
+          "pain_point": "Limited customization options"
+        },
+        "priority": "low",
+        "estimated_duration": "5-10 minutes"
+      }
+    ]
+  },
+  "execution_order": [
+    {
+      "sequence": 1,
+      "scenario_id": "Navigate to main feature and complete tasks quickly",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 2,
+      "scenario_id": "Recover from error state related to: Lack of accessibility features",
+      "persona": "",
+      "priority": "medium",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 3,
+      "scenario_id": "Find and use help/information resources",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 4,
+      "scenario_id": "Complete secondary task: Complete tasks quickly",
+      "persona": "",
+      "priority": "medium",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 5,
+      "scenario_id": "Use interface on first visit (no prior knowledge)",
+      "persona": "",
+      "priority": "medium",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 6,
+      "scenario_id": "Navigate to main feature and customize experience",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 7,
+      "scenario_id": "Recover from error state related to: Privacy concerns",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 8,
+      "scenario_id": "Find and use help/information resources",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 9,
+      "scenario_id": "Complete secondary task: Customize experience",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 10,
+      "scenario_id": "Use interface on first visit (no prior knowledge)",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 11,
+      "scenario_id": "Navigate to main feature and make informed decisions",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 12,
+      "scenario_id": "Recover from error state related to: Limited customization options",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 13,
+      "scenario_id": "Find and use help/information resources",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 14,
+      "scenario_id": "Complete secondary task: Make informed decisions",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    },
+    {
+      "sequence": 15,
+      "scenario_id": "Use interface on first visit (no prior knowledge)",
+      "persona": "",
+      "priority": "low",
+      "estimated_minutes": "Unknown"
+    }
+  ]
+}

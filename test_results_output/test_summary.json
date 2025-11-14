@@ -1,0 +1,63 @@
+{
+  "test_date": "2025-11-13T13:03:58.025631",
+  "total_tests": 50,
+  "success_rate": "80.0%",
+  "avg_completion_time_seconds": 361,
+  "severity_breakdown": {
+    "low": 37,
+    "high": 10,
+    "medium": 3
+  },
+  "top_issues": [
+    {
+      "issue": "Needed multiple attempts to complete action",
+      "count": 6,
+      "percentage": "12.0%"
+    },
+    {
+      "issue": "Error message was confusing or unhelpful",
+      "count": 5,
+      "percentage": "10.0%"
+    },
+    {
+      "issue": "Encountered expected pain point: Limited customization options",
+      "count": 2,
+      "percentage": "4.0%"
+    },
+    {
+      "issue": "Encountered expected pain point: Confusing terminology",
+      "count": 2,
+      "percentage": "4.0%"
+    },
+    {
+      "issue": "Struggled to find primary workflow completion elements",
+      "count": 2,
+      "percentage": "4.0%"
+    },
+    {
+      "issue": "Struggled to find secondary workflows elements",
+      "count": 2,
+      "percentage": "4.0%"
+    },
+    {
+      "issue": "Encountered expected pain point: Privacy concerns",
+      "count": 1,
+      "percentage": "2.0%"
+    },
+    {
+      "issue": "Unclear about terminology related to Navigate to main feature and c...",
+      "count": 1,
+      "percentage": "2.0%"
+    },
+    {
+      "issue": "Unclear about terminology related to Complete secondary task: Compl...",
+      "count": 1,
+      "percentage": "2.0%"
+    },
+    {
+      "issue": "Unclear about terminology related to Navigate to main feature and s...",
+      "count": 1,
+      "percentage": "2.0%"
+    }
+  ]
+}

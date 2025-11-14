@@ -1,0 +1,1151 @@
+[
+  {
+    "test_id": "test_20251113_130334_5462",
+    "persona_id": "persona_001",
+    "scenario_id": "persona_001_scenario_1",
+    "task": "Navigate to main feature and complete tasks quickly",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "pain_point": "Lack of accessibility features"
+    },
+    "timestamp": "2025-11-13T13:03:34.457520",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 330,
+    "time_readable": "5m 30s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Button labels unclear"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_1816",
+    "persona_id": "persona_001",
+    "scenario_id": "persona_001_scenario_2",
+    "task": "Recover from error state related to: Lack of accessibility features",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "pain_point": "Lack of accessibility features"
+    },
+    "timestamp": "2025-11-13T13:03:34.457582",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 257,
+    "time_readable": "4m 17s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6264",
+    "persona_id": "persona_001",
+    "scenario_id": "persona_001_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "pain_point": "Lack of accessibility features"
+    },
+    "timestamp": "2025-11-13T13:03:34.457605",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 242,
+    "time_readable": "4m 2s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_1175",
+    "persona_id": "persona_001",
+    "scenario_id": "persona_001_scenario_4",
+    "task": "Complete secondary task: Complete tasks quickly",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "pain_point": "Lack of accessibility features"
+    },
+    "timestamp": "2025-11-13T13:03:34.457623",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 265,
+    "time_readable": "4m 25s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Button labels unclear",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_3524",
+    "persona_id": "persona_001",
+    "scenario_id": "persona_001_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "pain_point": "Lack of accessibility features"
+    },
+    "timestamp": "2025-11-13T13:03:34.457660",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 303,
+    "time_readable": "5m 3s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Too many options presented at once",
+      "Button labels unclear"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_2886",
+    "persona_id": "persona_002",
+    "scenario_id": "persona_002_scenario_1",
+    "task": "Navigate to main feature and customize experience",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457681",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 300,
+    "time_readable": "5m 0s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_5201",
+    "persona_id": "persona_002",
+    "scenario_id": "persona_002_scenario_2",
+    "task": "Recover from error state related to: Privacy concerns",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457695",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 309,
+    "time_readable": "5m 9s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_9182",
+    "persona_id": "persona_002",
+    "scenario_id": "persona_002_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457746",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 223,
+    "time_readable": "3m 43s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6591",
+    "persona_id": "persona_002",
+    "scenario_id": "persona_002_scenario_4",
+    "task": "Complete secondary task: Customize experience",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457766",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 326,
+    "time_readable": "5m 26s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_9593",
+    "persona_id": "persona_002",
+    "scenario_id": "persona_002_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457781",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 222,
+    "time_readable": "3m 42s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_2659",
+    "persona_id": "persona_003",
+    "scenario_id": "persona_003_scenario_1",
+    "task": "Navigate to main feature and make informed decisions",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.457820",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 321,
+    "time_readable": "5m 21s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_8836",
+    "persona_id": "persona_003",
+    "scenario_id": "persona_003_scenario_2",
+    "task": "Recover from error state related to: Limited customization options",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.457835",
+    "task_completed": false,
+    "success_rate": 0.85,
+    "time_seconds": 218,
+    "time_readable": "3m 38s",
+    "issues_encountered": [
+      "Error message was confusing or unhelpful",
+      "Encountered expected pain point: Limited customization options"
+    ],
+    "confusion_points": [
+      "Button labels unclear",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_4888",
+    "persona_id": "persona_003",
+    "scenario_id": "persona_003_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.457860",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 253,
+    "time_readable": "4m 13s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_8719",
+    "persona_id": "persona_003",
+    "scenario_id": "persona_003_scenario_4",
+    "task": "Complete secondary task: Make informed decisions",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.457873",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 324,
+    "time_readable": "5m 24s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Button labels unclear",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_4378",
+    "persona_id": "persona_003",
+    "scenario_id": "persona_003_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.457890",
+    "task_completed": false,
+    "success_rate": 0.95,
+    "time_seconds": 278,
+    "time_readable": "4m 38s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Too many options presented at once",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_4950",
+    "persona_id": "persona_004",
+    "scenario_id": "persona_004_scenario_1",
+    "task": "Navigate to main feature and save time on routine tasks",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.457906",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 266,
+    "time_readable": "4m 26s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_9971",
+    "persona_id": "persona_004",
+    "scenario_id": "persona_004_scenario_2",
+    "task": "Recover from error state related to: Confusing terminology",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.457920",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 274,
+    "time_readable": "4m 34s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_3522",
+    "persona_id": "persona_004",
+    "scenario_id": "persona_004_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.457933",
+    "task_completed": false,
+    "success_rate": 0.95,
+    "time_seconds": 262,
+    "time_readable": "4m 22s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Too many options presented at once",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_5744",
+    "persona_id": "persona_004",
+    "scenario_id": "persona_004_scenario_4",
+    "task": "Complete secondary task: Save time on routine tasks",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.457948",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 291,
+    "time_readable": "4m 51s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_7664",
+    "persona_id": "persona_004",
+    "scenario_id": "persona_004_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.457961",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 325,
+    "time_readable": "5m 25s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_4585",
+    "persona_id": "persona_005",
+    "scenario_id": "persona_005_scenario_1",
+    "task": "Navigate to main feature and ensure data security",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.457993",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 222,
+    "time_readable": "3m 42s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Too many options presented at once",
+      "Button labels unclear"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_2092",
+    "persona_id": "persona_005",
+    "scenario_id": "persona_005_scenario_2",
+    "task": "Recover from error state related to: Privacy concerns",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.458011",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 292,
+    "time_readable": "4m 52s",
+    "issues_encountered": [
+      "Encountered expected pain point: Privacy concerns",
+      "Error message was confusing or unhelpful"
+    ],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "medium"
+  },
+  {
+    "test_id": "test_20251113_130334_4314",
+    "persona_id": "persona_005",
+    "scenario_id": "persona_005_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.458031",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 300,
+    "time_readable": "5m 0s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_3097",
+    "persona_id": "persona_005",
+    "scenario_id": "persona_005_scenario_4",
+    "task": "Complete secondary task: Ensure data security",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.458044",
+    "task_completed": false,
+    "success_rate": 0.85,
+    "time_seconds": 271,
+    "time_readable": "4m 31s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Button labels unclear"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_2442",
+    "persona_id": "persona_005",
+    "scenario_id": "persona_005_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "pain_point": "Privacy concerns"
+    },
+    "timestamp": "2025-11-13T13:03:34.458061",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 266,
+    "time_readable": "4m 26s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_1802",
+    "persona_id": "persona_006",
+    "scenario_id": "persona_006_scenario_1",
+    "task": "Navigate to main feature and make informed decisions",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458074",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 328,
+    "time_readable": "5m 28s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6340",
+    "persona_id": "persona_006",
+    "scenario_id": "persona_006_scenario_2",
+    "task": "Recover from error state related to: Confusing terminology",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458087",
+    "task_completed": false,
+    "success_rate": 0.7,
+    "time_seconds": 340,
+    "time_readable": "5m 40s",
+    "issues_encountered": [
+      "Error message was confusing or unhelpful",
+      "Encountered expected pain point: Confusing terminology"
+    ],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Button labels unclear"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_7358",
+    "persona_id": "persona_006",
+    "scenario_id": "persona_006_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458106",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 366,
+    "time_readable": "6m 6s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_2138",
+    "persona_id": "persona_006",
+    "scenario_id": "persona_006_scenario_4",
+    "task": "Complete secondary task: Make informed decisions",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458119",
+    "task_completed": true,
+    "success_rate": 0.7,
+    "time_seconds": 350,
+    "time_readable": "5m 50s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Button labels unclear",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_3554",
+    "persona_id": "persona_006",
+    "scenario_id": "persona_006_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458135",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 344,
+    "time_readable": "5m 44s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_3147",
+    "persona_id": "persona_007",
+    "scenario_id": "persona_007_scenario_1",
+    "task": "Navigate to main feature and track progress over time",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Slow loading times"
+    },
+    "timestamp": "2025-11-13T13:03:34.458165",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 300,
+    "time_readable": "5m 0s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Button labels unclear",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_1941",
+    "persona_id": "persona_007",
+    "scenario_id": "persona_007_scenario_2",
+    "task": "Recover from error state related to: Slow loading times",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Slow loading times"
+    },
+    "timestamp": "2025-11-13T13:03:34.458182",
+    "task_completed": true,
+    "success_rate": 0.7,
+    "time_seconds": 342,
+    "time_readable": "5m 42s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_5060",
+    "persona_id": "persona_007",
+    "scenario_id": "persona_007_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Slow loading times"
+    },
+    "timestamp": "2025-11-13T13:03:34.458195",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 317,
+    "time_readable": "5m 17s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_1621",
+    "persona_id": "persona_007",
+    "scenario_id": "persona_007_scenario_4",
+    "task": "Complete secondary task: Track progress over time",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Slow loading times"
+    },
+    "timestamp": "2025-11-13T13:03:34.458208",
+    "task_completed": true,
+    "success_rate": 0.7,
+    "time_seconds": 317,
+    "time_readable": "5m 17s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_4813",
+    "persona_id": "persona_007",
+    "scenario_id": "persona_007_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "pain_point": "Slow loading times"
+    },
+    "timestamp": "2025-11-13T13:03:34.458222",
+    "task_completed": true,
+    "success_rate": 0.8,
+    "time_seconds": 329,
+    "time_readable": "5m 29s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6618",
+    "persona_id": "persona_008",
+    "scenario_id": "persona_008_scenario_1",
+    "task": "Navigate to main feature and complete tasks quickly",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458241",
+    "task_completed": false,
+    "success_rate": 0.65,
+    "time_seconds": 549,
+    "time_readable": "9m 9s",
+    "issues_encountered": [
+      "Unclear about terminology related to Navigate to main feature and c...",
+      "Struggled to find primary workflow completion elements",
+      "Needed multiple attempts to complete action"
+    ],
+    "confusion_points": [
+      "Button labels unclear",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_9864",
+    "persona_id": "persona_008",
+    "scenario_id": "persona_008_scenario_2",
+    "task": "Recover from error state related to: Limited customization options",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458266",
+    "task_completed": true,
+    "success_rate": 0.55,
+    "time_seconds": 614,
+    "time_readable": "10m 14s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_9053",
+    "persona_id": "persona_008",
+    "scenario_id": "persona_008_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458279",
+    "task_completed": true,
+    "success_rate": 0.65,
+    "time_seconds": 469,
+    "time_readable": "7m 49s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6493",
+    "persona_id": "persona_008",
+    "scenario_id": "persona_008_scenario_4",
+    "task": "Complete secondary task: Complete tasks quickly",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458292",
+    "task_completed": false,
+    "success_rate": 0.55,
+    "time_seconds": 671,
+    "time_readable": "11m 11s",
+    "issues_encountered": [
+      "Struggled to find secondary workflows elements",
+      "Needed multiple attempts to complete action",
+      "Unclear about terminology related to Complete secondary task: Compl..."
+    ],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_3729",
+    "persona_id": "persona_008",
+    "scenario_id": "persona_008_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458312",
+    "task_completed": true,
+    "success_rate": 0.65,
+    "time_seconds": 645,
+    "time_readable": "10m 45s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_4870",
+    "persona_id": "persona_009",
+    "scenario_id": "persona_009_scenario_1",
+    "task": "Navigate to main feature and access information on-the-go",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458344",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 230,
+    "time_readable": "3m 50s",
+    "issues_encountered": [],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6215",
+    "persona_id": "persona_009",
+    "scenario_id": "persona_009_scenario_2",
+    "task": "Recover from error state related to: Limited customization options",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458384",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 298,
+    "time_readable": "4m 58s",
+    "issues_encountered": [
+      "Encountered expected pain point: Limited customization options",
+      "Error message was confusing or unhelpful"
+    ],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "medium"
+  },
+  {
+    "test_id": "test_20251113_130334_1119",
+    "persona_id": "persona_009",
+    "scenario_id": "persona_009_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458398",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 349,
+    "time_readable": "5m 49s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_2834",
+    "persona_id": "persona_009",
+    "scenario_id": "persona_009_scenario_4",
+    "task": "Complete secondary task: Access information on-the-go",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458407",
+    "task_completed": true,
+    "success_rate": 0.85,
+    "time_seconds": 232,
+    "time_readable": "3m 52s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_9395",
+    "persona_id": "persona_009",
+    "scenario_id": "persona_009_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "pain_point": "Limited customization options"
+    },
+    "timestamp": "2025-11-13T13:03:34.458416",
+    "task_completed": true,
+    "success_rate": 0.95,
+    "time_seconds": 248,
+    "time_readable": "4m 8s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_4033",
+    "persona_id": "persona_010",
+    "scenario_id": "persona_010_scenario_1",
+    "task": "Navigate to main feature and save time on routine tasks",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458425",
+    "task_completed": true,
+    "success_rate": 0.65,
+    "time_seconds": 662,
+    "time_readable": "11m 2s",
+    "issues_encountered": [
+      "Struggled to find primary workflow completion elements",
+      "Needed multiple attempts to complete action",
+      "Unclear about terminology related to Navigate to main feature and s..."
+    ],
+    "confusion_points": [
+      "Button labels unclear",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "medium"
+  },
+  {
+    "test_id": "test_20251113_130334_7584",
+    "persona_id": "persona_010",
+    "scenario_id": "persona_010_scenario_2",
+    "task": "Recover from error state related to: Confusing terminology",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458439",
+    "task_completed": false,
+    "success_rate": 0.55,
+    "time_seconds": 700,
+    "time_readable": "11m 40s",
+    "issues_encountered": [
+      "Needed multiple attempts to complete action",
+      "Error message was confusing or unhelpful",
+      "Encountered expected pain point: Confusing terminology"
+    ],
+    "confusion_points": [
+      "Button labels unclear",
+      "Navigation path not intuitive"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_3293",
+    "persona_id": "persona_010",
+    "scenario_id": "persona_010_scenario_3",
+    "task": "Find and use help/information resources",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458453",
+    "task_completed": true,
+    "success_rate": 0.65,
+    "time_seconds": 667,
+    "time_readable": "11m 7s",
+    "issues_encountered": [],
+    "confusion_points": [],
+    "llm_insights": null,
+    "meets_success_criteria": true,
+    "severity": "low"
+  },
+  {
+    "test_id": "test_20251113_130334_6120",
+    "persona_id": "persona_010",
+    "scenario_id": "persona_010_scenario_4",
+    "task": "Complete secondary task: Save time on routine tasks",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458461",
+    "task_completed": false,
+    "success_rate": 0.55,
+    "time_seconds": 744,
+    "time_readable": "12m 24s",
+    "issues_encountered": [
+      "Struggled to find secondary workflows elements",
+      "Needed multiple attempts to complete action",
+      "Unclear about terminology related to Complete secondary task: Save ..."
+    ],
+    "confusion_points": [
+      "Navigation path not intuitive",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  },
+  {
+    "test_id": "test_20251113_130334_1352",
+    "persona_id": "persona_010",
+    "scenario_id": "persona_010_scenario_5",
+    "task": "Use interface on first visit (no prior knowledge)",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "pain_point": "Confusing terminology"
+    },
+    "timestamp": "2025-11-13T13:03:34.458473",
+    "task_completed": false,
+    "success_rate": 0.65,
+    "time_seconds": 719,
+    "time_readable": "11m 59s",
+    "issues_encountered": [
+      "Struggled to find learnability elements",
+      "Unclear about terminology related to Use interface on first visit (...",
+      "Needed multiple attempts to complete action"
+    ],
+    "confusion_points": [
+      "Button labels unclear",
+      "Too many options presented at once"
+    ],
+    "llm_insights": null,
+    "meets_success_criteria": false,
+    "severity": "high"
+  }
+]

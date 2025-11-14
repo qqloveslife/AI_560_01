@@ -1,0 +1,2852 @@
+[
+  {
+    "scenario_id": "persona_001_scenario_1",
+    "persona_id": "persona_001",
+    "task_description": "Navigate to main feature and complete tasks quickly",
+    "expected_behavior": "Creative Professional with Expert tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_001_scenario_2",
+    "persona_id": "persona_001",
+    "task_description": "Recover from error state related to: Lack of accessibility features",
+    "expected_behavior": "User encounters and resolves Lack of accessibility features without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_001_scenario_3",
+    "persona_id": "persona_001",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Expert user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_001_scenario_4",
+    "persona_id": "persona_001",
+    "task_description": "Complete secondary task: Complete tasks quickly",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_001_scenario_5",
+    "persona_id": "persona_001",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_002_scenario_1",
+    "persona_id": "persona_002",
+    "task_description": "Navigate to main feature and customize experience",
+    "expected_behavior": "Teacher with Expert tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Customize experience",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_002_scenario_2",
+    "persona_id": "persona_002",
+    "task_description": "Recover from error state related to: Privacy concerns",
+    "expected_behavior": "User encounters and resolves Privacy concerns without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Customize experience",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_002_scenario_3",
+    "persona_id": "persona_002",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Expert user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Customize experience",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_002_scenario_4",
+    "persona_id": "persona_002",
+    "task_description": "Complete secondary task: Customize experience",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Customize experience",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_002_scenario_5",
+    "persona_id": "persona_002",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Teacher understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Customize experience",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_003_scenario_1",
+    "persona_id": "persona_003",
+    "task_description": "Navigate to main feature and make informed decisions",
+    "expected_behavior": "Researcher with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_003_scenario_2",
+    "persona_id": "persona_003",
+    "task_description": "Recover from error state related to: Limited customization options",
+    "expected_behavior": "User encounters and resolves Limited customization options without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_003_scenario_3",
+    "persona_id": "persona_003",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_003_scenario_4",
+    "persona_id": "persona_003",
+    "task_description": "Complete secondary task: Make informed decisions",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_003_scenario_5",
+    "persona_id": "persona_003",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Researcher understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "High",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_004_scenario_1",
+    "persona_id": "persona_004",
+    "task_description": "Navigate to main feature and save time on routine tasks",
+    "expected_behavior": "Senior Citizen with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_004_scenario_2",
+    "persona_id": "persona_004",
+    "task_description": "Recover from error state related to: Confusing terminology",
+    "expected_behavior": "User encounters and resolves Confusing terminology without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_004_scenario_3",
+    "persona_id": "persona_004",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_004_scenario_4",
+    "persona_id": "persona_004",
+    "task_description": "Complete secondary task: Save time on routine tasks",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_004_scenario_5",
+    "persona_id": "persona_004",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Senior Citizen understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "High",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_005_scenario_1",
+    "persona_id": "persona_005",
+    "task_description": "Navigate to main feature and ensure data security",
+    "expected_behavior": "Creative Professional with Advanced tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_005_scenario_2",
+    "persona_id": "persona_005",
+    "task_description": "Recover from error state related to: Privacy concerns",
+    "expected_behavior": "User encounters and resolves Privacy concerns without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_005_scenario_3",
+    "persona_id": "persona_005",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Advanced user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_005_scenario_4",
+    "persona_id": "persona_005",
+    "task_description": "Complete secondary task: Ensure data security",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_005_scenario_5",
+    "persona_id": "persona_005",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_006_scenario_1",
+    "persona_id": "persona_006",
+    "task_description": "Navigate to main feature and make informed decisions",
+    "expected_behavior": "Creative Professional with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_006_scenario_2",
+    "persona_id": "persona_006",
+    "task_description": "Recover from error state related to: Confusing terminology",
+    "expected_behavior": "User encounters and resolves Confusing terminology without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_006_scenario_3",
+    "persona_id": "persona_006",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_006_scenario_4",
+    "persona_id": "persona_006",
+    "task_description": "Complete secondary task: Make informed decisions",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_006_scenario_5",
+    "persona_id": "persona_006",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_007_scenario_1",
+    "persona_id": "persona_007",
+    "task_description": "Navigate to main feature and track progress over time",
+    "expected_behavior": "Creative Professional with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_007_scenario_2",
+    "persona_id": "persona_007",
+    "task_description": "Recover from error state related to: Slow loading times",
+    "expected_behavior": "User encounters and resolves Slow loading times without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_007_scenario_3",
+    "persona_id": "persona_007",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_007_scenario_4",
+    "persona_id": "persona_007",
+    "task_description": "Complete secondary task: Track progress over time",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_007_scenario_5",
+    "persona_id": "persona_007",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_008_scenario_1",
+    "persona_id": "persona_008",
+    "task_description": "Navigate to main feature and complete tasks quickly",
+    "expected_behavior": "Small Business Owner with Limited tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_008_scenario_2",
+    "persona_id": "persona_008",
+    "task_description": "Recover from error state related to: Limited customization options",
+    "expected_behavior": "User encounters and resolves Limited customization options without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_008_scenario_3",
+    "persona_id": "persona_008",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Limited user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_008_scenario_4",
+    "persona_id": "persona_008",
+    "task_description": "Complete secondary task: Complete tasks quickly",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_008_scenario_5",
+    "persona_id": "persona_008",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Small Business Owner understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Small Business Owner",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_009_scenario_1",
+    "persona_id": "persona_009",
+    "task_description": "Navigate to main feature and access information on-the-go",
+    "expected_behavior": "Student with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_009_scenario_2",
+    "persona_id": "persona_009",
+    "task_description": "Recover from error state related to: Limited customization options",
+    "expected_behavior": "User encounters and resolves Limited customization options without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_009_scenario_3",
+    "persona_id": "persona_009",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_009_scenario_4",
+    "persona_id": "persona_009",
+    "task_description": "Complete secondary task: Access information on-the-go",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_009_scenario_5",
+    "persona_id": "persona_009",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Student understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_010_scenario_1",
+    "persona_id": "persona_010",
+    "task_description": "Navigate to main feature and save time on routine tasks",
+    "expected_behavior": "Creative Professional with Limited tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_010_scenario_2",
+    "persona_id": "persona_010",
+    "task_description": "Recover from error state related to: Confusing terminology",
+    "expected_behavior": "User encounters and resolves Confusing terminology without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_010_scenario_3",
+    "persona_id": "persona_010",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Limited user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_010_scenario_4",
+    "persona_id": "persona_010",
+    "task_description": "Complete secondary task: Save time on routine tasks",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_010_scenario_5",
+    "persona_id": "persona_010",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_011_scenario_1",
+    "persona_id": "persona_011",
+    "task_description": "Navigate to main feature and share information with others",
+    "expected_behavior": "Student with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Share information with others",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_011_scenario_2",
+    "persona_id": "persona_011",
+    "task_description": "Recover from error state related to: Unclear error messages",
+    "expected_behavior": "User encounters and resolves Unclear error messages without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Share information with others",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_011_scenario_3",
+    "persona_id": "persona_011",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Share information with others",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_011_scenario_4",
+    "persona_id": "persona_011",
+    "task_description": "Complete secondary task: Share information with others",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Share information with others",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_011_scenario_5",
+    "persona_id": "persona_011",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Student understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "High",
+      "primary_goal": "Share information with others",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_012_scenario_1",
+    "persona_id": "persona_012",
+    "task_description": "Navigate to main feature and access information on-the-go",
+    "expected_behavior": "Healthcare Worker with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_012_scenario_2",
+    "persona_id": "persona_012",
+    "task_description": "Recover from error state related to: Unclear error messages",
+    "expected_behavior": "User encounters and resolves Unclear error messages without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_012_scenario_3",
+    "persona_id": "persona_012",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_012_scenario_4",
+    "persona_id": "persona_012",
+    "task_description": "Complete secondary task: Access information on-the-go",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_012_scenario_5",
+    "persona_id": "persona_012",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Healthcare Worker understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_013_scenario_1",
+    "persona_id": "persona_013",
+    "task_description": "Navigate to main feature and share information with others",
+    "expected_behavior": "Teacher with Expert tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Share information with others",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_013_scenario_2",
+    "persona_id": "persona_013",
+    "task_description": "Recover from error state related to: Slow loading times",
+    "expected_behavior": "User encounters and resolves Slow loading times without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Share information with others",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_013_scenario_3",
+    "persona_id": "persona_013",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Expert user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Share information with others",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_013_scenario_4",
+    "persona_id": "persona_013",
+    "task_description": "Complete secondary task: Share information with others",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Share information with others",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_013_scenario_5",
+    "persona_id": "persona_013",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Teacher understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Share information with others",
+      "pain_point": "Slow loading times"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_014_scenario_1",
+    "persona_id": "persona_014",
+    "task_description": "Navigate to main feature and learn new features",
+    "expected_behavior": "Teacher with Limited tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Learn new features",
+      "pain_point": "Information overload"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_014_scenario_2",
+    "persona_id": "persona_014",
+    "task_description": "Recover from error state related to: Information overload",
+    "expected_behavior": "User encounters and resolves Information overload without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Learn new features",
+      "pain_point": "Information overload"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_014_scenario_3",
+    "persona_id": "persona_014",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Limited user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Learn new features",
+      "pain_point": "Information overload"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_014_scenario_4",
+    "persona_id": "persona_014",
+    "task_description": "Complete secondary task: Learn new features",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Learn new features",
+      "pain_point": "Information overload"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_014_scenario_5",
+    "persona_id": "persona_014",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Teacher understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Teacher",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Learn new features",
+      "pain_point": "Information overload"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_015_scenario_1",
+    "persona_id": "persona_015",
+    "task_description": "Navigate to main feature and access information on-the-go",
+    "expected_behavior": "Working Professional with Expert tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_015_scenario_2",
+    "persona_id": "persona_015",
+    "task_description": "Recover from error state related to: Unclear error messages",
+    "expected_behavior": "User encounters and resolves Unclear error messages without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_015_scenario_3",
+    "persona_id": "persona_015",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Expert user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_015_scenario_4",
+    "persona_id": "persona_015",
+    "task_description": "Complete secondary task: Access information on-the-go",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_015_scenario_5",
+    "persona_id": "persona_015",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Working Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Expert",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_016_scenario_1",
+    "persona_id": "persona_016",
+    "task_description": "Navigate to main feature and share information with others",
+    "expected_behavior": "Senior Citizen with Beginner tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Share information with others",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_016_scenario_2",
+    "persona_id": "persona_016",
+    "task_description": "Recover from error state related to: Limited customization options",
+    "expected_behavior": "User encounters and resolves Limited customization options without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Share information with others",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_016_scenario_3",
+    "persona_id": "persona_016",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Beginner user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Share information with others",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_016_scenario_4",
+    "persona_id": "persona_016",
+    "task_description": "Complete secondary task: Share information with others",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Share information with others",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_016_scenario_5",
+    "persona_id": "persona_016",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Senior Citizen understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Share information with others",
+      "pain_point": "Limited customization options"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_017_scenario_1",
+    "persona_id": "persona_017",
+    "task_description": "Navigate to main feature and make informed decisions",
+    "expected_behavior": "Freelancer with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_017_scenario_2",
+    "persona_id": "persona_017",
+    "task_description": "Recover from error state related to: Poor mobile experience",
+    "expected_behavior": "User encounters and resolves Poor mobile experience without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_017_scenario_3",
+    "persona_id": "persona_017",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_017_scenario_4",
+    "persona_id": "persona_017",
+    "task_description": "Complete secondary task: Make informed decisions",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_017_scenario_5",
+    "persona_id": "persona_017",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Freelancer understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_018_scenario_1",
+    "persona_id": "persona_018",
+    "task_description": "Navigate to main feature and access information on-the-go",
+    "expected_behavior": "Freelancer with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_018_scenario_2",
+    "persona_id": "persona_018",
+    "task_description": "Recover from error state related to: Poor mobile experience",
+    "expected_behavior": "User encounters and resolves Poor mobile experience without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_018_scenario_3",
+    "persona_id": "persona_018",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_018_scenario_4",
+    "persona_id": "persona_018",
+    "task_description": "Complete secondary task: Access information on-the-go",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_018_scenario_5",
+    "persona_id": "persona_018",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Freelancer understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_019_scenario_1",
+    "persona_id": "persona_019",
+    "task_description": "Navigate to main feature and collaborate with team members",
+    "expected_behavior": "Retail Worker with Beginner tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_019_scenario_2",
+    "persona_id": "persona_019",
+    "task_description": "Recover from error state related to: Unclear error messages",
+    "expected_behavior": "User encounters and resolves Unclear error messages without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_019_scenario_3",
+    "persona_id": "persona_019",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Beginner user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_019_scenario_4",
+    "persona_id": "persona_019",
+    "task_description": "Complete secondary task: Collaborate with team members",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_019_scenario_5",
+    "persona_id": "persona_019",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Retail Worker understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_020_scenario_1",
+    "persona_id": "persona_020",
+    "task_description": "Navigate to main feature and track progress over time",
+    "expected_behavior": "Retail Worker with Limited tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_020_scenario_2",
+    "persona_id": "persona_020",
+    "task_description": "Recover from error state related to: Confusing terminology",
+    "expected_behavior": "User encounters and resolves Confusing terminology without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_020_scenario_3",
+    "persona_id": "persona_020",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Limited user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_020_scenario_4",
+    "persona_id": "persona_020",
+    "task_description": "Complete secondary task: Track progress over time",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_020_scenario_5",
+    "persona_id": "persona_020",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Retail Worker understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Retail Worker",
+      "tech_proficiency": "Limited",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Confusing terminology"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_021_scenario_1",
+    "persona_id": "persona_021",
+    "task_description": "Navigate to main feature and track progress over time",
+    "expected_behavior": "Student with Intermediate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_021_scenario_2",
+    "persona_id": "persona_021",
+    "task_description": "Recover from error state related to: Lack of accessibility features",
+    "expected_behavior": "User encounters and resolves Lack of accessibility features without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_021_scenario_3",
+    "persona_id": "persona_021",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Intermediate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_021_scenario_4",
+    "persona_id": "persona_021",
+    "task_description": "Complete secondary task: Track progress over time",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_021_scenario_5",
+    "persona_id": "persona_021",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Student understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_022_scenario_1",
+    "persona_id": "persona_022",
+    "task_description": "Navigate to main feature and make informed decisions",
+    "expected_behavior": "Senior Citizen with Intermediate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_022_scenario_2",
+    "persona_id": "persona_022",
+    "task_description": "Recover from error state related to: Lack of accessibility features",
+    "expected_behavior": "User encounters and resolves Lack of accessibility features without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_022_scenario_3",
+    "persona_id": "persona_022",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Intermediate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_022_scenario_4",
+    "persona_id": "persona_022",
+    "task_description": "Complete secondary task: Make informed decisions",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_022_scenario_5",
+    "persona_id": "persona_022",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Senior Citizen understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Make informed decisions",
+      "pain_point": "Lack of accessibility features"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_023_scenario_1",
+    "persona_id": "persona_023",
+    "task_description": "Navigate to main feature and ensure data security",
+    "expected_behavior": "Creative Professional with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_023_scenario_2",
+    "persona_id": "persona_023",
+    "task_description": "Recover from error state related to: Privacy concerns",
+    "expected_behavior": "User encounters and resolves Privacy concerns without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_023_scenario_3",
+    "persona_id": "persona_023",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_023_scenario_4",
+    "persona_id": "persona_023",
+    "task_description": "Complete secondary task: Ensure data security",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_023_scenario_5",
+    "persona_id": "persona_023",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Creative Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Creative Professional",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Ensure data security",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_024_scenario_1",
+    "persona_id": "persona_024",
+    "task_description": "Navigate to main feature and complete tasks quickly",
+    "expected_behavior": "Student with Advanced tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_024_scenario_2",
+    "persona_id": "persona_024",
+    "task_description": "Recover from error state related to: Too many steps to complete tasks",
+    "expected_behavior": "User encounters and resolves Too many steps to complete tasks without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_024_scenario_3",
+    "persona_id": "persona_024",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Advanced user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_024_scenario_4",
+    "persona_id": "persona_024",
+    "task_description": "Complete secondary task: Complete tasks quickly",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_024_scenario_5",
+    "persona_id": "persona_024",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Student understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Student",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_025_scenario_1",
+    "persona_id": "persona_025",
+    "task_description": "Navigate to main feature and share information with others",
+    "expected_behavior": "Working Professional with Intermediate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Share information with others",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_025_scenario_2",
+    "persona_id": "persona_025",
+    "task_description": "Recover from error state related to: Poor mobile experience",
+    "expected_behavior": "User encounters and resolves Poor mobile experience without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Share information with others",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_025_scenario_3",
+    "persona_id": "persona_025",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Intermediate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Share information with others",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_025_scenario_4",
+    "persona_id": "persona_025",
+    "task_description": "Complete secondary task: Share information with others",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Share information with others",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_025_scenario_5",
+    "persona_id": "persona_025",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Working Professional understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Working Professional",
+      "tech_proficiency": "Intermediate",
+      "primary_goal": "Share information with others",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_026_scenario_1",
+    "persona_id": "persona_026",
+    "task_description": "Navigate to main feature and track progress over time",
+    "expected_behavior": "Freelancer with High tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_026_scenario_2",
+    "persona_id": "persona_026",
+    "task_description": "Recover from error state related to: Too many steps to complete tasks",
+    "expected_behavior": "User encounters and resolves Too many steps to complete tasks without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_026_scenario_3",
+    "persona_id": "persona_026",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "High user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_026_scenario_4",
+    "persona_id": "persona_026",
+    "task_description": "Complete secondary task: Track progress over time",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_026_scenario_5",
+    "persona_id": "persona_026",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Freelancer understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Freelancer",
+      "tech_proficiency": "High",
+      "primary_goal": "Track progress over time",
+      "pain_point": "Too many steps to complete tasks"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_027_scenario_1",
+    "persona_id": "persona_027",
+    "task_description": "Navigate to main feature and save time on routine tasks",
+    "expected_behavior": "Senior Citizen with Advanced tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_027_scenario_2",
+    "persona_id": "persona_027",
+    "task_description": "Recover from error state related to: Unclear error messages",
+    "expected_behavior": "User encounters and resolves Unclear error messages without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_027_scenario_3",
+    "persona_id": "persona_027",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Advanced user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_027_scenario_4",
+    "persona_id": "persona_027",
+    "task_description": "Complete secondary task: Save time on routine tasks",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_027_scenario_5",
+    "persona_id": "persona_027",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Senior Citizen understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Advanced",
+      "primary_goal": "Save time on routine tasks",
+      "pain_point": "Unclear error messages"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_028_scenario_1",
+    "persona_id": "persona_028",
+    "task_description": "Navigate to main feature and complete tasks quickly",
+    "expected_behavior": "Researcher with Moderate tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Difficulty navigating complex interfaces"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_028_scenario_2",
+    "persona_id": "persona_028",
+    "task_description": "Recover from error state related to: Difficulty navigating complex interfaces",
+    "expected_behavior": "User encounters and resolves Difficulty navigating complex interfaces without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Difficulty navigating complex interfaces"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_028_scenario_3",
+    "persona_id": "persona_028",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Moderate user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Difficulty navigating complex interfaces"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_028_scenario_4",
+    "persona_id": "persona_028",
+    "task_description": "Complete secondary task: Complete tasks quickly",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Difficulty navigating complex interfaces"
+    },
+    "priority": "low",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_028_scenario_5",
+    "persona_id": "persona_028",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Researcher understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Researcher",
+      "tech_proficiency": "Moderate",
+      "primary_goal": "Complete tasks quickly",
+      "pain_point": "Difficulty navigating complex interfaces"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_029_scenario_1",
+    "persona_id": "persona_029",
+    "task_description": "Navigate to main feature and access information on-the-go",
+    "expected_behavior": "Healthcare Worker with Beginner tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_029_scenario_2",
+    "persona_id": "persona_029",
+    "task_description": "Recover from error state related to: Privacy concerns",
+    "expected_behavior": "User encounters and resolves Privacy concerns without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_029_scenario_3",
+    "persona_id": "persona_029",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Beginner user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_029_scenario_4",
+    "persona_id": "persona_029",
+    "task_description": "Complete secondary task: Access information on-the-go",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_029_scenario_5",
+    "persona_id": "persona_029",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Healthcare Worker understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Healthcare Worker",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Access information on-the-go",
+      "pain_point": "Privacy concerns"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_030_scenario_1",
+    "persona_id": "persona_030",
+    "task_description": "Navigate to main feature and collaborate with team members",
+    "expected_behavior": "Senior Citizen with Beginner tech skills successfully completes primary workflow",
+    "success_criteria": [
+      "Task completed within reasonable time",
+      "No critical errors encountered"
+    ],
+    "focus_area": "Primary workflow completion",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_030_scenario_2",
+    "persona_id": "persona_030",
+    "task_description": "Recover from error state related to: Poor mobile experience",
+    "expected_behavior": "User encounters and resolves Poor mobile experience without abandoning task",
+    "success_criteria": [
+      "Error message is clear",
+      "Recovery path is obvious"
+    ],
+    "focus_area": "Error handling",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_030_scenario_3",
+    "persona_id": "persona_030",
+    "task_description": "Find and use help/information resources",
+    "expected_behavior": "Beginner user can locate assistance when needed",
+    "success_criteria": [
+      "Help is discoverable",
+      "Information is understandable"
+    ],
+    "focus_area": "Discoverability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_030_scenario_4",
+    "persona_id": "persona_030",
+    "task_description": "Complete secondary task: Collaborate with team members",
+    "expected_behavior": "User navigates to and completes secondary feature",
+    "success_criteria": [
+      "Navigation is intuitive",
+      "Task flow is logical"
+    ],
+    "focus_area": "Secondary workflows",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "medium",
+    "estimated_duration": "5-10 minutes"
+  },
+  {
+    "scenario_id": "persona_030_scenario_5",
+    "persona_id": "persona_030",
+    "task_description": "Use interface on first visit (no prior knowledge)",
+    "expected_behavior": "Senior Citizen understands interface without training",
+    "success_criteria": [
+      "Purpose is clear",
+      "Next steps are obvious"
+    ],
+    "focus_area": "Learnability",
+    "user_context": {
+      "user_type": "Senior Citizen",
+      "tech_proficiency": "Beginner",
+      "primary_goal": "Collaborate with team members",
+      "pain_point": "Poor mobile experience"
+    },
+    "priority": "high",
+    "estimated_duration": "5-10 minutes"
+  }
+]

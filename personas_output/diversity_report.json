@@ -1,0 +1,56 @@
+{
+  "total_personas": 30,
+  "user_types": {
+    "Creative Professional": 6,
+    "Teacher": 3,
+    "Researcher": 2,
+    "Senior Citizen": 5,
+    "Small Business Owner": 1,
+    "Student": 4,
+    "Healthcare Worker": 2,
+    "Working Professional": 2,
+    "Freelancer": 3,
+    "Retail Worker": 2
+  },
+  "age_ranges": {
+    "18-25": 5,
+    "46-55": 7,
+    "36-45": 7,
+    "26-35": 3,
+    "56-65": 5,
+    "65+": 3
+  },
+  "tech_levels": {
+    "Expert": 4,
+    "High": 6,
+    "Advanced": 3,
+    "Moderate": 6,
+    "Limited": 4,
+    "Beginner": 4,
+    "Intermediate": 3
+  },
+  "goals": {
+    "Complete tasks quickly": 4,
+    "Customize experience": 1,
+    "Make informed decisions": 4,
+    "Save time on routine tasks": 3,
+    "Ensure data security": 2,
+    "Track progress over time": 4,
+    "Access information on-the-go": 5,
+    "Share information with others": 4,
+    "Learn new features": 1,
+    "Collaborate with team members": 2
+  },
+  "pain_points": {
+    "Lack of accessibility features": 3,
+    "Privacy concerns": 4,
+    "Limited customization options": 4,
+    "Confusing terminology": 4,
+    "Slow loading times": 2,
+    "Unclear error messages": 5,
+    "Information overload": 1,
+    "Poor mobile experience": 4,
+    "Too many steps to complete tasks": 2,
+    "Difficulty navigating complex interfaces": 1
+  }
+}

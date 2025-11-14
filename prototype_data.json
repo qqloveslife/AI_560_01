@@ -1,0 +1,32 @@
+{
+  "prototype_name": "Sample E-commerce Checkout",
+  "screen_count": 1,
+  "date_parsed": "2025-11-12 07:52:52.405365",
+  "screens": [
+    {
+      "screen_id": "home_screen",
+      "interactive_elements": [
+        {
+          "type": "button",
+          "label": "Get Started",
+          "location": "center",
+          "prominence": "high",
+          "accessibility": "easy - large, centered, high contrast"
+        },
+        {
+          "type": "link",
+          "label": "Learn More",
+          "location": "bottom-center",
+          "prominence": "medium",
+          "accessibility": "moderate - smaller text"
+        }
+      ],
+      "visual_hierarchy": "Clear primary CTA with secondary action",
+      "navigation_pattern": "Single primary action",
+      "usability_concerns": [
+        "No visible back/home navigation",
+        "Unclear destination for 'Get Started'"
+      ]
+    }
+  ]
+}

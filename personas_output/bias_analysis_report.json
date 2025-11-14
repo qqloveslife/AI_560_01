@@ -1,0 +1,49 @@
+{
+  "bias_detected": true,
+  "diversity_score": 96.67,
+  "total_personas": 30,
+  "age_bias": [],
+  "tech_bias": [],
+  "user_type_bias": [
+    "Under-represented user type: Small Business Owner (3.3%)"
+  ],
+  "general_bias_flags": [
+    "Low accessibility representation: 0.0% (recommended: >10%)"
+  ],
+  "distributions": {
+    "age": {
+      "18-25": 5,
+      "46-55": 7,
+      "36-45": 7,
+      "26-35": 3,
+      "56-65": 5,
+      "65+": 3
+    },
+    "tech_proficiency": {
+      "Expert": 4,
+      "High": 6,
+      "Advanced": 3,
+      "Moderate": 6,
+      "Limited": 4,
+      "Beginner": 4,
+      "Intermediate": 3
+    },
+    "user_type": {
+      "Creative Professional": 6,
+      "Teacher": 3,
+      "Researcher": 2,
+      "Senior Citizen": 5,
+      "Small Business Owner": 1,
+      "Student": 4,
+      "Healthcare Worker": 2,
+      "Working Professional": 2,
+      "Freelancer": 3,
+      "Retail Worker": 2
+    }
+  },
+  "special_groups": {
+    "accessibility_representation": "0.0%",
+    "senior_representation": "26.7%",
+    "beginner_representation": "26.7%"
+  }
+}

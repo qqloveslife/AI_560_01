@@ -1,0 +1,190 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-11-13T13:10:20.797076",
+    "project_name": "Tandem Test - AI-Powered UX Research",
+    "report_type": "Comprehensive Usability Analysis"
+  },
+  "executive_summary": {
+    "total_personas": 30,
+    "total_scenarios": 150,
+    "total_tests_run": 50,
+    "overall_success_rate": "80.0%",
+    "critical_issues_identified": 8,
+    "avg_completion_time": "6.0 minutes"
+  },
+  "detailed_findings": {
+    "success_by_tech_level": {
+      "Expert": {
+        "success_rate": 100.0,
+        "avg_time_seconds": 277.7,
+        "total_tests": 10
+      },
+      "High": {
+        "success_rate": 80.0,
+        "avg_time_seconds": 277.93333333333334,
+        "total_tests": 15
+      },
+      "Advanced": {
+        "success_rate": 80.0,
+        "avg_time_seconds": 270.2,
+        "total_tests": 5
+      },
+      "Moderate": {
+        "success_rate": 90.0,
+        "avg_time_seconds": 333.3,
+        "total_tests": 10
+      },
+      "Limited": {
+        "success_rate": 50.0,
+        "avg_time_seconds": 644.0,
+        "total_tests": 10
+      }
+    },
+    "critical_issues": [
+      {
+        "issue": "Needed multiple attempts to complete action",
+        "occurrences": 6,
+        "impact_percentage": 12.0,
+        "critical_occurrences": 5,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Error message was confusing or unhelpful",
+        "occurrences": 5,
+        "impact_percentage": 10.0,
+        "critical_occurrences": 3,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Encountered expected pain point: Limited customization options",
+        "occurrences": 2,
+        "impact_percentage": 4.0,
+        "critical_occurrences": 1,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Encountered expected pain point: Confusing terminology",
+        "occurrences": 2,
+        "impact_percentage": 4.0,
+        "critical_occurrences": 2,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Struggled to find primary workflow completion elements",
+        "occurrences": 2,
+        "impact_percentage": 4.0,
+        "critical_occurrences": 1,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Struggled to find secondary workflows elements",
+        "occurrences": 2,
+        "impact_percentage": 4.0,
+        "critical_occurrences": 2,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Encountered expected pain point: Privacy concerns",
+        "occurrences": 1,
+        "impact_percentage": 2.0,
+        "critical_occurrences": 0,
+        "priority": "MEDIUM"
+      },
+      {
+        "issue": "Unclear about terminology related to Navigate to main feature and c...",
+        "occurrences": 1,
+        "impact_percentage": 2.0,
+        "critical_occurrences": 1,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Unclear about terminology related to Complete secondary task: Compl...",
+        "occurrences": 1,
+        "impact_percentage": 2.0,
+        "critical_occurrences": 1,
+        "priority": "HIGH"
+      },
+      {
+        "issue": "Unclear about terminology related to Navigate to main feature and s...",
+        "occurrences": 1,
+        "impact_percentage": 2.0,
+        "critical_occurrences": 0,
+        "priority": "MEDIUM"
+      }
+    ],
+    "diversity_metrics": {
+      "age_distribution": {
+        "18-25": 5,
+        "46-55": 7,
+        "36-45": 7,
+        "26-35": 3,
+        "56-65": 5,
+        "65+": 3
+      },
+      "tech_distribution": {
+        "Expert": 4,
+        "High": 6,
+        "Advanced": 3,
+        "Moderate": 6,
+        "Limited": 4,
+        "Beginner": 4,
+        "Intermediate": 3
+      },
+      "user_type_distribution": {
+        "Creative Professional": 6,
+        "Teacher": 3,
+        "Researcher": 2,
+        "Senior Citizen": 5,
+        "Small Business Owner": 1,
+        "Student": 4,
+        "Healthcare Worker": 2,
+        "Working Professional": 2,
+        "Freelancer": 3,
+        "Retail Worker": 2
+      },
+      "total_personas": 30
+    },
+    "roi_analysis": {
+      "traditional_approach": {
+        "time_minutes": 3000,
+        "time_hours": 50.0,
+        "cost_usd": 5000
+      },
+      "ai_approach": {
+        "time_minutes": 301.1666666666667,
+        "time_hours": 5.019444444444445,
+        "cost_usd": 5.0
+      },
+      "savings": {
+        "time_minutes": 2698.8333333333335,
+        "time_hours": 44.98055555555556,
+        "time_percentage": 89.96111111111111,
+        "cost_usd": 4995.0,
+        "cost_percentage": 99.9
+      }
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "Navigation",
+      "issue": "Needed multiple attempts to complete action",
+      "recommendation": "Simplify navigation structure and improve visual hierarchy",
+      "impact": "Will improve success rate by estimated 15-20%"
+    },
+    {
+      "priority": "HIGH",
+      "category": "Accessibility",
+      "issue": "Low proficiency users struggled significantly",
+      "recommendation": "Add contextual help and tooltips throughout interface",
+      "impact": "Will reduce completion time by estimated 20-30%"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Error Handling",
+      "issue": "Error messages unclear or unhelpful",
+      "recommendation": "Revise error messages to be more actionable and user-friendly",
+      "impact": "Will reduce task abandonment by estimated 10-15%"
+    }
+  ]
+}
